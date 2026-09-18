@@ -1,5 +1,6 @@
 body {
   background-color: rgb(209, 161, 231);
   min-height: 100vh;
- font-family:fantasy
+  font-family: fantasy;
+  text-shadow: 10px;
 }
